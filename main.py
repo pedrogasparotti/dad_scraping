@@ -64,11 +64,7 @@ def fetch_articles(keywords: List[str]) -> List[Dict]:
 def main():
     
     keywords = [
-        "Defensivos",
-        "fertilizantes",
-        "agricola",
-        "agrotoxico",
-        "safra"
+        "insira aqui suas palavras-chave"
     ]
 
     try:
